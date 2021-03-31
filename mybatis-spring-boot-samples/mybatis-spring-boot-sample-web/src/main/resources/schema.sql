@@ -18,3 +18,4 @@ drop table if exists city;
 
 create table city (id int primary key auto_increment, name varchar, state varchar, country varchar);
 
+create table sys_user (id int primary key auto_increment, name varchar, sex int, phone varchar, address varchar, card_id varchar, passwd varchar);

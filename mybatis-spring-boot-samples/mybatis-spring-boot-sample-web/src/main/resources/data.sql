@@ -15,3 +15,5 @@
 --
 
 insert into city (name, state, country) values ('San Francisco', 'CA', 'US');
+
+insert into sys_user (name, sex, phone, address, card_id, passwd) values ('cedoo', 1, '18502882807', '四川省成都市天府新区万东路80号', '510623198907155910', '123456');
